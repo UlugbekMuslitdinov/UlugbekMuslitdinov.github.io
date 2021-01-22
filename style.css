@@ -10,8 +10,15 @@ div.subscribe{
     
     border-radius: 10px;
 }
+div.image{
+    background-image:url(./img/back.jpg);
+    
+}
+
 div.ava{
     margin-left: 45%;
+    background-image: none;
+    
 }
 
 img.avatar{
