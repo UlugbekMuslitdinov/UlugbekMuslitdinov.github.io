@@ -1,0 +1,51 @@
+h1{
+   
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+div.subscribe{
+    background-color: rgb(184, 179, 179);
+    border-radius: 10px;
+}
+div.ava{
+    
+}
+
+img.avatar{
+
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+h3.nickname{
+    font-weight: 200;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.subscribers{
+    display: flex;
+}
+
+ul{
+    display: flex;
+}
+
+li.atitle{
+    margin: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: inline;
+}
+
+img.avas{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+.bio{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
